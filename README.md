@@ -10,6 +10,7 @@ This file includes the following chapters:
 Python 3.8 with following modules installed:
 * NumPy
 * OpenCV 4.4 for Python
+
 A webcam connected to your computer
 
 # 2. Project Description:
