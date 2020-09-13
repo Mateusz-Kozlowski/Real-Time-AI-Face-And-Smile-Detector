@@ -10,8 +10,14 @@ This file includes the following chapters:
 Python 3.8 with following modules installed:
 * NumPy
 * OpenCV 4.4 for Python
+A webcam connected to your computer
 
 # 2. Project Description:
+The project is my modification of [Real Time AI Smile Detector](https://youtu.be/uLY5JSE5WAU).
+It can recognize faces and smiles using the [haar algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html).
+I used a ready-made model from the [openCV library github](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+
+Important note: the program can only be closed by pressing the escape key (it cannot be closed by clicking on the red X in the upper right corner of the window).
 
 # 3. How to install:
 If you're familiar with git you can clone the repo. Otherwise you can simply download whole project as a compressed folder.
