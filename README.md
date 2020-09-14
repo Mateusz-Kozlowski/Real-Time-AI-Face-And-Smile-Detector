@@ -43,3 +43,5 @@ And you should see sth like that:
 # 4. Tips:
 The program is not perfect, so undesirable objects can be classified as a face.
 If you want it to work perfectly, you should set your face against a wall or other monocolor object.
+
+IMPORTANT NOTE: the program can only be closed by pressing the escape key (it cannot be closed by clicking on the red X in the upper right corner of the window).
