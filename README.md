@@ -19,7 +19,7 @@ The project is my modification of [Real Time AI Smile Detector](https://youtu.be
 It can recognize faces and smiles using the [haar algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html).
 I used a ready-made model from the [openCV library github](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
-Important note: the program can only be closed by pressing the escape key (it cannot be closed by clicking on the red X in the upper right corner of the window).
+IMPORTANT NOTE: the program can only be closed by pressing the escape key (it cannot be closed by clicking on the red X in the upper right corner of the window).
 
 Some screenshots:
 (comming soon!)
