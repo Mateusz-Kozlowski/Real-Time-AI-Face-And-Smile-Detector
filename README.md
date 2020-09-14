@@ -21,6 +21,7 @@ I used a ready-made model from the [openCV library github](https://github.com/op
 Important note: the program can only be closed by pressing the escape key (it cannot be closed by clicking on the red X in the upper right corner of the window).
 
 Some screenshots:
+
 (comming soon!)
 
 # 3. How to install:
