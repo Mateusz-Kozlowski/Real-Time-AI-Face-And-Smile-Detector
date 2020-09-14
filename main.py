@@ -50,7 +50,7 @@ while True:
 			cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 5)
 
 	# show current frame:
-	cv.imshow('Smile Detector', frame)
+	cv.imshow('SMILE DETECTOR', frame)
 
 	# display:
 	key = cv.waitKey(10)
