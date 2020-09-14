@@ -11,8 +11,8 @@ Python 3.8 with following modules installed:
 * NumPy
 * OpenCV 4.4 for Python
 
-A webcam connected to your computer
-Good lighting
+* A webcam connected to your computer
+* Good lighting
 
 # 2. Project Description:
 The project is my modification of [Real Time AI Smile Detector](https://youtu.be/uLY5JSE5WAU).
