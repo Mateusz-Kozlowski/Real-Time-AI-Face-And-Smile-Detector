@@ -40,8 +40,6 @@ Wait a few second...
 And you should see sth like that:
 (comming soon!)
 
-If program doesn't work at all, read carefully the errors and try to find rezolution on Stack Overflow or elsewhere. You should necessarily make an issue in the repo too.
-
 # 4. Tips:
 The program is not perfect, so undesirable objects can be classified as a face.
 If you want it to work perfectly, you should set your face against a wall or other monocolor object.
