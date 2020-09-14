@@ -7,12 +7,12 @@ This file includes the following chapters:
 4. Tips
 
 # 1. Requirements:
+* A webcam connected to your computer
+* Good lighting
+
 Python 3.8 with following modules installed:
 * NumPy
 * OpenCV 4.4 for Python
-
-* A webcam connected to your computer
-* Good lighting
 
 # 2. Project Description:
 The project is my modification of [Real Time AI Smile Detector](https://youtu.be/uLY5JSE5WAU).
