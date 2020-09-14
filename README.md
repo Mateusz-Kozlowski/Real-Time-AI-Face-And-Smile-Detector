@@ -26,23 +26,23 @@ Some screenshots:
 # 3. How to install:
 If you're familiar with git you can clone the repo. Otherwise you can simply download whole project as a compressed folder.
 
-
+![download](Screenshots//download.png)
 
 Then you need to make sure your device meets the requirements in chapter 1 (appropriate libraries installed).
 You can install them with pip from the command line.
 
 Finally run the program using command line. Navigate to the directory, where the project is located and type python main.py
 
-
+![running](Screenshots//commandLine1.png)
 
 Wait a few second...
 And you should see sth like that:
 
-
+![start](Screenshots//start.png)
 
 In the command line there may be some errors and warnings, but if you can use program and numbers are predicted correctly, then you can just ignore the erros.
 
-
+![errors](Screenshots//commandLine2.png)
 
 If program doesn't work at all, read carefully the errors and try to find rezolution on Stack Overflow or elsewhere. You should necessarily make an issue in the repo too.
 
