@@ -1,17 +1,18 @@
 # Real-Time-AI-Face-And-Smile-Detector
 
 This file includes the following chapters:
-1. Code Requirements
+1. Requirements
 2. Project description
 3. How to install
 4. Tips
 
-# 1. Code Requirements:
+# 1. Requirements:
 Python 3.8 with following modules installed:
 * NumPy
 * OpenCV 4.4 for Python
 
 A webcam connected to your computer
+Good lighting
 
 # 2. Project Description:
 The project is my modification of [Real Time AI Smile Detector](https://youtu.be/uLY5JSE5WAU).
@@ -42,4 +43,5 @@ And you should see sth like that:
 If program doesn't work at all, read carefully the errors and try to find rezolution on Stack Overflow or elsewhere. You should necessarily make an issue in the repo too.
 
 # 4. Tips:
-
+The program is not perfect, so undesirable objects can be classified as a face.
+If you want it to work perfectly, you should set your face against a wall or other monocolor object.
