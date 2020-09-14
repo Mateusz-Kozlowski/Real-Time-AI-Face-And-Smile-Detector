@@ -37,12 +37,7 @@ Finally run the program using command line. Navigate to the directory, where the
 
 Wait a few second...
 And you should see sth like that:
-
-![start](Screenshots//start.png)
-
-In the command line there may be some errors and warnings, but if you can use program and numbers are predicted correctly, then you can just ignore the erros.
-
-![errors](Screenshots//commandLine2.png)
+(comming soon!)
 
 If program doesn't work at all, read carefully the errors and try to find rezolution on Stack Overflow or elsewhere. You should necessarily make an issue in the repo too.
 
