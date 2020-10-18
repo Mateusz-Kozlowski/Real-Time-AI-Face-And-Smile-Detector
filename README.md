@@ -35,7 +35,7 @@ Finally run the program using command line. Navigate to the directory, where the
 
 Wait a few second...
 And you should see sth like that:
-(comming soon!)
+(COMING SOON!)
 
 # 4. Tips:
 The program is not perfect, so undesirable objects can be classified as a face.
