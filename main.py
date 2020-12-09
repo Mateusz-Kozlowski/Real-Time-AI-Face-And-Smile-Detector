@@ -50,12 +50,10 @@ while True:
 			cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 5)
 
 	# show current frame:
-	cv.imshow('SMILE DETECTOR', frame)
+	cv.imshow('Face & Smile Detector', frame)
 
 	# display:
-	key = cv.waitKey(10)
-
-	if key == 27:
+	if cv.waitKey(10) >= 0:
 		break
 
 # cleanup:
@@ -63,4 +61,4 @@ webcam.release()
 cv.destroyAllWindows()
 
 # code run without errors:
-print('Code is done')
+print('Code is done, so everything works fine!')
